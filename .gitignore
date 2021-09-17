@@ -1,3 +1,5 @@
 models
 *results*
 Notebooks/04. RoBERTa-Large-3Scale-Overall-Training_v3.ipynb
+Notebooks/checkpoints
+Notebooks/wandb
