@@ -14,6 +14,9 @@ End to end MLOps Pipeline for NLP
 
     To push a new model to remote
     ```
+    cd dvcfiles
+    dvc add ../Notebooks/models/distilroberta-base/ --file clinc_distilroberta.dvc
+    dvc push clinc_distilroberta.dvc
     ```
 
 
