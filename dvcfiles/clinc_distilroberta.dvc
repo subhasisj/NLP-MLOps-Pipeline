@@ -1,0 +1,6 @@
+wdir: ../Notebooks/models
+outs:
+- md5: e5dbe798126f1361615def3f33c91660.dir
+  size: 331608731
+  nfiles: 8
+  path: distilroberta-base
