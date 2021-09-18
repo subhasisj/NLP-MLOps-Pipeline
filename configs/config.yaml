@@ -1,6 +1,7 @@
 model:
   name: distilroberta-base
   tokenizer: distilroberta-base
+  model_dir: ./Notebooks/models
 
 processing:
   batch_size: 32
