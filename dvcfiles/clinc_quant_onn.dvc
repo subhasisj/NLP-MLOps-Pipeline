@@ -1,0 +1,5 @@
+wdir: ../Notebooks/models/onnx
+outs:
+- md5: 1dbdd4e6b9d26d53782d32812f52f2a4
+  size: 82484489
+  path: distilroberta.quant.onnx
