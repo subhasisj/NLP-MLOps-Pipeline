@@ -1,0 +1,6 @@
+wdir: ../Notebooks/models
+outs:
+- md5: 0f540418cc97b6db174764bd6d6d1a2d.dir
+  size: 461644649
+  nfiles: 3
+  path: squeezebert-onnx
