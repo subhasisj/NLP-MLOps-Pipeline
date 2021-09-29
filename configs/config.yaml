@@ -2,6 +2,9 @@ model:
   name: distilroberta-base
   tokenizer: distilroberta-base
   model_dir: ./Notebooks/models
+  onnx_model_path: ./Notebooks/models/onnx
+  onnx_model: distilroberta.quant.onnx
+
 
 processing:
   batch_size: 32
